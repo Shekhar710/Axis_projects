@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="webshop.testcases.webshopTestcases">
+      <class name="org.Manipal.testcases.testcasePrac1">
         <methods>
           <include name="scenario1"/>
-          <include name="initialSetup"/>
+          <include name="setup"/>
         </methods>
-      </class> <!-- webshop.testcases.webshopTestcases -->
+      </class> <!-- org.Manipal.testcases.testcasePrac1 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
